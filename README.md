@@ -1,5 +1,5 @@
 <p align="center">
-  <b>💌</b>
+  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=💌&color=grey" />
 </p>
 
 <p align="center">
