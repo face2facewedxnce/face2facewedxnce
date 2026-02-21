@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=%F0%9F%92%8C&color=9EDBD0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=%F0%9F%92%8C&color=D7F5F2&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <span style="color:#8B0000;">
+  <font color="#8B0000">
     my wish, to live in you like parasite<br>
     you, be my own private paradise
-  </span>
+  </font>
 </p>
 
 <p align="center">
