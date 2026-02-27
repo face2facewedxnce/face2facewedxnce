@@ -18,3 +18,9 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@kleein">pronouns</a>
 </p>
+
+<p align="center">
+  <a href="https://youtu.be/OUUNAiExHMQ?si=r7noLWPFyrtDsVKy">
+    <font color="#9FD8E3">♡</font>
+  </a>
+</p>
