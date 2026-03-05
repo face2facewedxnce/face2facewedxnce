@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nav1.atabook.org/">atabook</a>
+  <a href="https://faggotill.atabook.org">atabook</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@kleein">pronouns</a>
 </p>
