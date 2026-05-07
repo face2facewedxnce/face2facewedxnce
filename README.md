@@ -26,6 +26,3 @@
   <img src="https://files.catbox.moe/tflk5a.gif" width="90"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=%CA%9A%E0%AC%93%20%D6%BC%20%D6%B6%D6%B8%D6%A2.&color=2E2E2E&style=for-the-badge"/>
-</p>
