@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=%D8%9B%E0%BC%8A&color=2E2E2E&style=for-the-badge" />
+</p>
+
+<p align="center">
 ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦︶꒷꒦︶
 </p>
 
