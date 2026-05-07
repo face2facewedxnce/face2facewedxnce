@@ -1,33 +1,31 @@
 <p align="center">
-𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒
+꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦︶꒷꒦︶
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=%E2%98%84%EF%B8%8F&color=FF5E3A&style=for-the-badge" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1500&color=8B0000&center=true&vCenter=true&width=900&lines=%EA%B7%B8%EB%8C%80%EC%99%80+%ED%95%A8%EA%BB%98%EB%9D%BC%EB%A9%B4+%EC%9D%B4+%EC%82%AC%EB%9E%91"
+  />
 </p>
 
 <p align="center">
-  <font color="#8B0000">
-    그대와 함께라면 이 사랑
-  </font>
+  <img src="https://files.catbox.moe/vn4qg3.gif" width="320"/>
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/vn4qg3.gif" width="300"/>
-</p>
+  <a href="https://faggotill.atabook.org">
+    <img src="https://files.catbox.moe/yy7i4l.png" width="90"/>
+  </a>
 
-<p align="center">
-  <a href="https://faggotill.atabook.org">atabook</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@kleein">pronouns</a>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/OUUNAiExHMQ?si=r7noLWPFyrtDsVKy">
-    <font color="#9FD8E3">♡</font>
+  <a href="https://en.pronouns.page/@kleein">
+    <img src="https://files.catbox.moe/v27nqk.png" width="90"/>
   </a>
 </p>
 
+<p align="center" style="margin-bottom:-17px;">
+  <img src="https://files.catbox.moe/tflk5a.gif" width="90"/>
+</p>
+
 <p align="center">
-𓈒⠀𓂃⠀⠀˖⠀𓇬⠀˖⠀⠀𓂃⠀𓈒
+  <img src="https://komarev.com/ghpvc/?username=face2facewedxnce&label=%CA%9A%E0%AC%93%20%D6%BC%20%D6%B6%D6%B8%D6%A2.&color=2E2E2E&style=for-the-badge"/>
 </p>
