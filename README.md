@@ -27,6 +27,6 @@
 </p>
 
 <p align="center" style="margin-bottom:-17px;">
-  <img src="https://files.catbox.moe/4fx4er.gif" width="190"/>
+  <img src="https://files.catbox.moe/4fx4er.gif" width="230"/>
 </p>
 
