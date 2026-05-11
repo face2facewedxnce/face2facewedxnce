@@ -12,9 +12,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/vn4qg3.gif" width="320"/>
-</p>
 
 <p align="center">
   <a href="https://faggotill.atabook.org">
