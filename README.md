@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/banyn6.gif" width="280">
+  <img src="https://files.catbox.moe/banyn6.gif" width="300">
 </p>
 
 <p align="center">
@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/zsnspv.gif" width="200">
+  <img src="https://files.catbox.moe/zsnspv.gif" width="220">
 </p>
