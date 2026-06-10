@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/tfumqq.gif" width="400">
+  <img src="https://files.catbox.moe/rrvjk3.gif" width="400">
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/r05c4k.jpg" width="300">
+  <img src="https://files.catbox.moe/2omumd.gif" width="300">
 </p>
 
 <p align="center">
