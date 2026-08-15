@@ -23,7 +23,7 @@ $\color{#B6AFBD}\textsf{youll}$  $\color{#C0B7C6}\textsf{forever}$  $\color{#DEC
 <a href="https://faggotill.atabook.org">
   <img src="https://img.shields.io/badge/atabook-a5a3af?style=for-the-badge" alt="atabook">
 </a>
-<a href="bunnyaoi.straw.page">
+<a href="https://bunnyaoi.straw.page/">
   <img src="https://img.shields.io/badge/strawpage-C0C4D0?style=for-the-badge" alt="strawpage">
 </a>
 <a href="rentry.co/fatchudivan">
