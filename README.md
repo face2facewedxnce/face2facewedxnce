@@ -26,7 +26,7 @@ $\color{#B6AFBD}\textsf{youll}$  $\color{#C0B7C6}\textsf{forever}$  $\color{#DEC
 <a href="https://bunnyaoi.straw.page/">
   <img src="https://img.shields.io/badge/strawpage-C0C4D0?style=for-the-badge" alt="strawpage">
 </a>
-<a href="rentry.co/fatchudivan">
+<a href="https://rentry.co/fatchudivan">
   <img src="https://img.shields.io/badge/rentry-8e929c?style=for-the-badge" alt="rentry">
 </a>
 
